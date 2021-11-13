@@ -1,4 +1,3 @@
-//Katie Ortiz - Homework #3 - CS 236 - 3/24/2021
 #include "RBTreeHeader.h"
 
 //Implementation of the RedBlackTreeClass constructor
